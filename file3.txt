@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Helloooooo this is srithaaaaa
+=======
+Hello this is edited by shriya
+>>>>>>> bf41a2383e4c8acd14893d0b20d2777143b4b1de
